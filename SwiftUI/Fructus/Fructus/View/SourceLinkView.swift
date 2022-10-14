@@ -1,9 +1,3 @@
-//
-//  SourceLinkView.swift
-//  Fructus
-//
-//  Created by Donizetti de Souza on 10/5/22.
-//
 
 import SwiftUI
 
