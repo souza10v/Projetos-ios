@@ -62,7 +62,7 @@ struct TeamPointsView: View {
                 .padding(20)
             }//ScrollView
         } //NavigationView
-    }
+    } // View?
 }
 
 
