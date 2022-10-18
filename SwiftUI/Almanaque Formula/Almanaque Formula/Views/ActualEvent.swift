@@ -1,4 +1,4 @@
-//
+
 //  ActualEvent.swift
 //  Almanaque Formula
 //
